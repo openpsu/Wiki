@@ -11,13 +11,13 @@ Resources commonly available in Penn State and beyond that is free to use
 ## Information
 - General Education Criteria
     - [General Education Plan generator](https://genedplan.psu.edu/)
-    - Testing
+    - [Popular Gen Eds](https://www.reddit.com/r/PennStateUniversity/comments/jw248c/thread_geneds_simplified/)
 
 ## Career
 Work in progress
 
 ## Textbooks
-Work in progress
+- [Penn State Library](https://libraries.psu.edu/)
 
 ## Videos
 Work in progress
