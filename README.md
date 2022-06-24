@@ -15,7 +15,7 @@ Resources commonly available in Penn State and beyond that is free to use
 - [Blockchain@PSU](https://github.com/blockchainpsu)
 
 ## Career
-Work in progress
+- [Worklion](https://worklion.psu.edu/)
 
 ## Textbooks
 - [Penn State Library](https://libraries.psu.edu/)
