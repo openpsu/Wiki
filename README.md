@@ -14,6 +14,7 @@ Resources commonly available in Penn State and beyond that is free to use
     - [Popular Gen Eds](https://www.reddit.com/r/PennStateUniversity/comments/jw248c/thread_geneds_simplified/)
 - [Agenda/Scheduler](https://github.com/openPSU/Scheduler)
 - [Blockchain@PSU](https://github.com/blockchainpsu)
+- [opensource psu libraries](https://libraries.psu.edu/open-penn-state)
 
 ## Career
 - [Worklion](https://worklion.psu.edu/)
