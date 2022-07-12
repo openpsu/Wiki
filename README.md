@@ -14,6 +14,7 @@ Resources commonly available in Penn State and beyond that is free to use
 - [Agenda/Scheduler](https://github.com/openPSU/Scheduler)
 - [Blockchain@PSU](https://github.com/blockchainpsu)
 - [opensource psu libraries](https://libraries.psu.edu/open-penn-state)
+- [Off Campus Housing](https://livingoffcampus.psu.edu/)
 
 ## Career
 - [Worklion](https://worklion.psu.edu/)
